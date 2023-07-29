@@ -15,7 +15,7 @@ def power(a,n):
     return a**n
 
 
-
-
+def seeing():
+    print('Hi guys')
 
 
